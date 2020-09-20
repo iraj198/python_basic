@@ -1,0 +1,6 @@
+name=input("Iraj")
+name=name.strip().capitalize()
+print(name=="Iraj")
+print(name=="Iraj")
+print("Iru" in name)
+print("Iru" not in name)

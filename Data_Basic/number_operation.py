@@ -1,0 +1,6 @@
+print("add",6+3)
+print("subtract",6-3)
+print("multiplication",6*3)
+print("division",6/3)
+print("quotient",6//3)
+print("remainder",6%3)
